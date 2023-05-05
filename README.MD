@@ -1,6 +1,6 @@
 A Web Blog Made to Study Django
 
-Um Site de Blog Feito Para Estudar Django
+Blog feito em Django no Curso : Curso de Python 3 do Básico Ao Avançado
 
 Foi Feito Usando :
 
